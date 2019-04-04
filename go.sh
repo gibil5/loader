@@ -4,6 +4,7 @@ DIR=csv/
 
 # Copy 
 cp ~/Desktop/PRECIOS\ 2019/* . 
+cp -r ~/Desktop/PRECIOS\ 2019.numbers ./backup/. 
 
 # Move
 #mv "CO2-Table 1.csv" "CO2.csv"       
