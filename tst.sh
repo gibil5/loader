@@ -1,0 +1,3 @@
+DIR=csv
+ls $DIR
+

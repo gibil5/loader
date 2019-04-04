@@ -1,0 +1,8 @@
+idx,x_type,family,subfamily,code,new,sepa,name,treatment,zone,pathology,level,sessions,time,price,price_vip,price_company,price_session,price_session_next,price_max
+1,service,cosmetology,cosmetology,,, - ,PUNTA DE DIAMANTES - Rostro - Limpieza profunda - 1 sesion - 30 min,PUNTA DE DIAMANTES,Rostro,Limpieza profunda,,1 sesion,30 min,300,200,160,,,
+2,service,cosmetology,cosmetology,,, - ,PUNTA DE DIAMANTES - Rostro - Limpieza profunda - 6 sesiones - 30 min,PUNTA DE DIAMANTES,Rostro,Limpieza profunda,,6 sesiones,30 min,"1,200",900,720,,,
+3,service,cosmetology,cosmetology,,, - ,CARBOXITERAPIA - Rostro - Rejuvenecimiento - 1 sesion - 30 min,CARBOXITERAPIA,Rostro,Rejuvenecimiento,,1 sesion,30 min,300,200,160,,,
+4,service,cosmetology,cosmetology,,, - ,CARBOXITERAPIA - Rostro - Rejuvenecimiento - 6 sesiones - 30 min,CARBOXITERAPIA,Rostro,Rejuvenecimiento,,6 sesiones,30 min,"1,200",900,720,,,
+5,service,cosmetology,cosmetology,,, - ,CARBOXITERAPIA - Cuerpo - Rejuvenecimiento - 1 sesion - 30 min,CARBOXITERAPIA,Cuerpo,Rejuvenecimiento,,1 sesion,30 min,300,200,160,,,
+6,service,cosmetology,cosmetology,,, - ,CARBOXITERAPIA - Cuerpo - Rejuvenecimiento - 6 sesiones - 30 min,CARBOXITERAPIA,Cuerpo,Rejuvenecimiento,,6 sesiones,30 min,"1,200",900,720,,,
+7,service,cosmetology,cosmetology,,, - ,"LASER TRIACTIVE + CARBOXITERAPIA - Rostro, Papada y Cuello - Reafirmacion - 10 sesiones - 30 min",LASER TRIACTIVE + CARBOXITERAPIA,"Rostro, Papada y Cuello",Reafirmacion,,10 sesiones,30 min,"3,000","1,700","1,360",,,

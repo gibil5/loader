@@ -1,0 +1,30 @@
+x_type,family,subfamily,code,new,name,manufacturer,brand,price,price_company
+product,topical,chavarri,,,PROTECTOR SOLAR - H,HILDA,CLINICA CHAVARRI,200,35
+product,topical,chavarri,,1,Protector solar Cooper,LA COOPER,CLINICA CHAVARRI,200,35
+product,topical,chavarri,,1,Despigmentante GLI-KO,LA COOPER,CLINICA CHAVARRI,250,35
+product,topical,chavarri,,1,Crema Revitalizante con vitaminas,LA COOPER,CLINICA CHAVARRI,200,35
+product,topical,chavarri,,1,RegeneraDerm D-Pantenol,LA COOPER,CLINICA CHAVARRI,150,35
+product,topical,chavarri,,1,Acne Clean Dermolimpiador,LA COOPER,CLINICA CHAVARRI,70,35
+product,topical,chavarri,,,Tretinoina,HILDA,CLINICA CHAVARRI,200,35
+product,topical,chavarri,,,Mascara astringente Liquido,ELIAS OCHANTE,CLINICA CHAVARRI,100,35
+product,topical,chavarri,,,Mascara astringente Polvo,ELIAS OCHANTE,CLINICA CHAVARRI,100,35
+product,topical,chavarri,,,Despigmentante HQ,BOTICA FRANCESA,CLINICA CHAVARRI,200,50
+product,topical,chavarri,,,Despigmentante AHA,BOTICA FRANCESA,CLINICA CHAVARRI,200,50
+product,topical,chavarri,,,Crema con Vitaminas,BOTICA FRANCESA,CLINICA CHAVARRI,200,50
+product,topical,commercial,,,Tarjeta VIP,CLINICA CHAVARRI,CLINICA CHAVARRI,200,0
+product,topical,commercial,,,Kit post laser CO2,BOTICA VILLEGAS,CLINICA CHAVARRI,150,75
+product,topical,commercial,,1,Kit post laser CO2 Cooper,LA COOPER,CLINICA CHAVARRI,200,75
+product,topical,commercial,,1,Kit post QL,CLINICA CHAVARRI,CLINICA CHAVARRI,200,200
+product,topical,commercial,,,Despigmentante Santa Teresa,BOTICA SANTA TERESA,BOTICA SANTA TERESA,300,90
+product,topical,commercial,,,Despigmentante formula 1,BOTICA SANTA TERESA,BOTICA SANTA TERESA,300,120
+product,topical,commercial,,,ANTIRROJECES,EURODERMA,EURODERMA,200,100
+product,topical,commercial,,,HIDRATOPIC LOCION 120ml,MEDISCIENCE,MEDISCIENCE,80,40
+product,topical,commercial,,,COLAGENO NAARA,JEUNESSE,JEUNESSE,170,85
+product,topical,commercial,,,AGELESS CAJA,JEUNESSE,JEUNESSE,250,190
+product,topical,commercial,,,AGELESS BLISTER de 5,JEUNESSE,JEUNESSE,50,50
+product,topical,commercial,,,DERMATOPIC LOCION 120ml,MEDISCIENCE,MEDISCIENCE,80,40
+product,topical,commercial,,,DERMATOPIC SULFUR 90gr,MEDISCIENCE,MEDISCIENCE,80,40
+product,topical,commercial,,,ACNETOPIC 200ml,MEDISCIENCE,MEDISCIENCE,120,75
+product,topical,commercial,,,Q54,DROGUERIA ZOMAX,DROGUERIA ZOMAX,350,210
+product,topical,commercial,,1,VITAMINA SKIN,AKRON,AKRON,200,150
+product,topical,commercial,,1,VITAMINA SKIN C,AKRON,AKRON,300,180

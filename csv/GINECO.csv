@@ -1,0 +1,11 @@
+idx,x_type,family,subfamily,code,new,sepa,name,treatment,zone,pathology,level,sessions,time,price,price_vip,price_company,price_session,price_session_next,price_max
+1,service,gynecology,gynecology,,, - ,CONSULTA GINECOLOGICA,CONSULTA GINECOLOGICA,,,,1 sesion,,200,150,120,,,
+2,service,gynecology,gynecology,,1, - ,LASER CO2 FRACCIONAL - Monalisa Touch / Revitalización,LASER CO2 FRACCIONAL,Vagina,Monalisa Touch / Revitalización,,1 sesion,,"3,000","1,500","1,200",,,
+3,service,gynecology,gynecology,,1, - ,LASER CO2 FRACCIONAL - Monalisa Touch / Resequedad ,LASER CO2 FRACCIONAL,Vagina,Monalisa Touch / Resequedad ,,1 sesion,,"3,000","1,500","1,200",,,
+4,service,gynecology,gynecology,,1, - ,LASER CO2 FRACCIONAL - Monalisa Touch / Incontinencia Urinaria,LASER CO2 FRACCIONAL,Vagina,Monalisa Touch / Incontinencia Urinaria,,1 sesion,,"3,000","1,500","1,200",,,
+5,service,gynecology,gynecology,,1, - ,CRIOCIRUGIA - Crioterapia vaginal - 1 sesion,CRIOCIRUGIA,Todo Rostro,Crioterapia vaginal,,1 sesion,,300,250,200,,,
+6,service,gynecology,gynecology,,1, - ,CRIOCIRUGIA - Crioterapia vaginal - 10 sesiones,CRIOCIRUGIA,Todo Rostro,Crioterapia vaginal,,10 sesiones,,"3,000","2,500","2,000",,,
+7,service,gynecology,gynecology,,1, - ,PLASMA - Vagina - Rejuvenecimiento ,PLASMA,Vagina,Rejuvenecimiento ,,1 sesion,,"1,600",800,640,,,
+8,service,gynecology,gynecology,,1, - ,ANALISIS - Vagina - Papanicolau,ANALISIS,Vagina,Papanicolau,,1 sesion,,-1,-1,-1,,,
+9,service,gynecology,gynecology,,1, - ,ANALISIS - Vagina - Biopsias,ANALISIS,Vagina,"Biopsias (cervix, endometrio)",,1 sesion,,-1,-1,-1,,,
+10,service,gynecology,gynecology,,1, - ,TRATAMIENTO - Vagina,TRATAMIENTO,Vagina,Colocación y/o Retiro de dispositivo intrauterinos,,1 sesion,,-1,-1,-1,,,
